@@ -35,6 +35,9 @@
 | Projekt | Beschreibung | Stack |
 | :--- | :--- | :--- |
 | **🎵 [Konzert Radar](https://konzertradar.app)** | Konzerte in deiner Nähe entdecken – mit Karte, Radius-Suche und Favoriten. | `Flutter` `Dart` `GitHub Actions` |
+| **⚽ KickOff Roulette 26** | Roulette-Tool für EA Sports FC / FIFA: Teams per Zufall oder nach Liga, Nation und Sternen auslosen – für 1v1-Duelle und Couch-Koop-Turniere. | `Flutter` `Dart` |
+| **👨‍👩‍👧 Familienplaner** | Multi-User-App für den Familienalltag: gemeinsamer Kalender, Aufgaben & Chores, Einkaufslisten in Echtzeit und Rollen für Eltern und Kinder. | `Flutter` `Dart` |
+| **🍽️ Speisekarten-Roulette** | Speisekarte fotografieren und per KI eine Empfehlung bekommen – oder das Glücksrad entscheiden lassen. | `Flutter` `Dart` `Gemini API` |
 | **🧵 Filawatch** | Verwaltung von Filament & 3D-Drucker (MQTT-Steuerung, AMS-Slots, automatischer Gewichtsabzug). | `React` `Vite` `Tailwind` `Node.js` `Express` `SQLite` |
 | **👕 Wardrobe App** | Digitaler Kleiderschrank mit Outfit-Planer und Insights – offline-first. | `Flutter` `Riverpod` `Hive` `go_router` |
 | **🎮 Roblox-Projekte** | Tycoon- & Clicker-Games, modular per Code implementiert. | `Luau` `Roblox Studio` |
@@ -44,7 +47,7 @@
 <h3 align="center">📊 GitHub Activity</h3>
 
 <div align="center">
-  <img height="175" src="https://streak-stats.demolab.com/?user=LucaAcul2008&theme=tokyonight&hide_border=true&hide_total_contributions=true&cache_seconds=3600" alt="GitHub Streak Stats" />
+  <img height="175" src="https://streak-stats.demolab.com/?user=LucaAcul2008&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="GitHub Streak Stats" />
 </div>
 
 ---
