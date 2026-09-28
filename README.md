@@ -13,7 +13,7 @@
 
 ---
 
-### 🧑‍💻 Über mich
+<h3 align="center">🧑‍💻 Über mich</h3>
 
 - 🎓 **HTL Saalfelden (Informatik):** Netzwerktechnik, Webentwicklung, Systemplanung und Business-Software (u. a. SAP)
 - 🛠️ **Entwicklung:** Ich baue eigene Apps, Webseiten und Tools – privat und als Freelancer
@@ -22,7 +22,7 @@
 
 ---
 
-### 🧰 Tech-Stack
+<h3 align="center">🧰 Tech-Stack</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,express,sqlite,dotnet,cs,flutter,dart,git,github,azure,vercel,vscode,androidstudio&perline=10" alt="Tech Stack" />
@@ -30,7 +30,7 @@
 
 ---
 
-### 🚀 Projekte
+<h3 align="center">🚀 Projekte</h3>
 
 | Projekt | Beschreibung | Stack |
 | :--- | :--- | :--- |
@@ -41,15 +41,15 @@
 
 ---
 
-### 📊 GitHub Activity
+<h3 align="center">📊 GitHub Activity</h3>
 
 <div align="center">
-  <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=LucaAcul2008&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img height="175" src="https://streak-stats.demolab.com/?user=LucaAcul2008&theme=tokyonight&hide_border=true&hide_total_contributions=true&cache_seconds=3600" alt="GitHub Streak Stats" />
 </div>
 
 ---
 
-### 🌱 Aktuelle Schwerpunkte
+<h3 align="center">🌱 Aktuelle Schwerpunkte</h3>
 
 - 📱 **Konzert Radar** zum Google-Play-Release bringen
 - 🧠 Vertiefung in **Flutter Clean Architecture**, Riverpod & automatisierte CI/CD
@@ -57,7 +57,7 @@
 
 ---
 
-### 📫 Kontakt & Web
+<h3 align="center">📫 Kontakt & Web</h3>
 
 <div align="center">
   <a href="https://github.com/LucaAcul2008"><img src="https://img.shields.io/badge/GitHub-LucaAcul2008-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
