@@ -47,7 +47,7 @@
 <h3 align="center">📊 GitHub Activity</h3>
 
 <div align="center">
-  <img height="175" src="https://streak-stats.demolab.com/?user=LucaAcul2008&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="GitHub Streak Stats" />
+  <img height="175" src="https://streak-stats.demolab.com/?user=LucaAcul2008&theme=tokyonight&hide_border=true&v=2" alt="GitHub Streak Stats" />
 </div>
 
 ---
